@@ -3,7 +3,10 @@
 
 class IOCherry
 
-    @@instance ||= IOCherry.new
+    def IOCherry.instance
+    
+        @@instance ||= IOCherry.new
+    end
     
     def initailize()
     end
