@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 
-class HTTPCoffee
+class HTTPServant
 
 
 end
